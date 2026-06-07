@@ -1,0 +1,12 @@
+# Project Vision & Mission
+
+## Vision
+To develop a simple, efficient, and reliable digital ledger system that helps small and medium enterprises (UMKM) manage their financial transactions, inventory, and business performance in real time.
+
+## Mission
+- Provide an easy-to-use system for recording income and expense transactions accurately.
+- Enable real-time inventory tracking to prevent stock shortages and overstocking.
+- Support business decision-making through financial visualization such as revenue tracking and BEP (Break-Even Point) monitoring.
+- Ensure data persistence and continuity using browser local storage.
+- Simplify financial reporting through automated Excel export functionality.
+- Improve operational efficiency for UMKM through a lightweight web-based application.

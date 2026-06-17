@@ -8,8 +8,7 @@
 ![Offline](https://img.shields.io/badge/Offline-100%25-success?style=for-the-badge)
 
 **TokoKita** adalah sebuah *Progressive Web Application* (PWA) yang dirancang khusus sebagai sistem manajemen keuangan dan inventori luring (*offline*) untuk Usaha Mikro, Kecil, dan Menengah (UMKM). Sistem ini membantu pelaku usaha untuk mencatat pemasukan dan pengeluaran, memantau perputaran modal, dan menghitung *Break-Even Point* (BEP) secara otomatis tanpa memerlukan koneksi internet maupun konfigurasi *database* yang rumit.
-
-Proyek ini dikembangkan untuk memenuhi tugas akhir (*AOL*) mata kuliah **Software Engineering** oleh Kelompok 7.
+.
 
 ---
 
@@ -21,6 +20,12 @@ Proyek ini dikembangkan untuk memenuhi tugas akhir (*AOL*) mata kuliah **Softwar
 *   🚨 **Low Stock Warning:** Fitur *Guardrail* dan lencana notifikasi otomatis jika barang mencapai batas minimum stok atau habis terjual.
 *   📊 **Dynamic Financial Dashboard:** Kalkulasi instan (*real-time*) untuk Pendapatan Hari Ini (*Today's Revenue*), Valuasi Modal Aktif, dan persentase pencapaian Target BEP bulanan.
 *   📑 **Direct Excel Export:** Ekspor laporan riwayat transaksi dan data fiskal langsung ke dalam format `.xlsx` (Excel) tanpa memerlukan *backend server* (didukung oleh *library* SheetJS).
+
+---
+## Link Penting
+Kamu bisa melihat dan mencoba aplikasi kami di link berikut ini https://ichigosky21.github.io/UMKM-Ledger/ 
+
+Atau ingin melihat latar belakang mengapa aplikasi ini muncul bisa melalui https://canva.link/qb2l4e7bxbjay0u 
 
 ---
 
@@ -37,3 +42,5 @@ Aplikasi ini dibangun murni di sisi klien (*Client-Side*) tanpa *framework* bera
  ┣ 📜 manifest.json      # Konfigurasi PWA (ikon, nama aplikasi, tema tampilan)
  ┣ 📜 figma_initial_prototype.fig # File rancangan desain awal UI/UX
  ┗ 📜 README.md          # Dokumentasi proyek
+
+
